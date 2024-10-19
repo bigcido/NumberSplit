@@ -1,3 +1,8 @@
+/*
+@author - Alvaro Dias
+RA 1110482223004
+ */
+
 package br.edu.fateczl.numbersplit;
 
 import android.os.Bundle;
